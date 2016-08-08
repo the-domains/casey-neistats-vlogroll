@@ -1,0 +1,14 @@
+layout_spectrum: 0.4724259723443538
+typography_spectrum: 0.792018465930596
+color:
+  brandStrength: 0.02422949578613043
+  lightness: 0.8269363730214536
+  saturation: 0.6413667302113026
+  rhythmicContrast: 0.9018142453860492
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: Casey Neistat's Vlogroll
